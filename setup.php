@@ -80,7 +80,7 @@ function plugin_version_room(){
 
 	return array( 'name'    => $LANGROOM[0],
 		'minGlpiVersion' => '0.71', // Optional but recommended
-		'version' => '0.1');
+		'version' => '1.0');
 }
 
 // Define rights for the plugin types
