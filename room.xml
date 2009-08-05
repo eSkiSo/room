@@ -3,7 +3,7 @@
    <name>room</name>
    <key>room</key>
    <state>stable</state>
-   <logo>https://dev.indepnet.net/svn/plugins/room/logo.png</logo>
+   <logo>https://forge.indepnet.net/svn/room/logo.png</logo>
    <description>
       <short>
          <fr><![CDATA[Gestion des salles et des éléments inclus (comme de classes)]]></fr>
