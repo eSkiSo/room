@@ -14,8 +14,8 @@
          <en><![CDATA[This plugin allows you to manage the rooms and the elements that are included in. A room is not the same as a location that already exists in GLPI because it can not contain items.]]></en>
       </long>
    </description>
-   <homepage>https://forge.glpi-project.org/projects/show/room</homepage>
-   <download>https://forge.glpi-project.org/projects/list_files/room</download>
+   <homepage>https://forge.indepnet.net/projects/show/room</homepage>
+   <download>https://forge.indepnet.net/projects/list_files/room</download>
    <authors>
       <author>Julien Dombre</author>
    </authors>
