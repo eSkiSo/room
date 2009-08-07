@@ -36,10 +36,10 @@
    <license>GPL v2+</license>
    <tags>
          <fr>
-            <tag>environnement</tag>
+            <tag>salle</tag>
          </fr>
          <en>
-            <tag>Environment</tag>
+            <tag>room</tag>
          </en>
    </tags>
 </root>
