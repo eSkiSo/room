@@ -10,8 +10,8 @@
          <en><![CDATA[Manage room and included hardwares (like classrooms)]]></en>
       </short>
       <long>
-         <fr><![CDATA[Ce plugin vous permettra de gérer les salles et les éléments que les composent. La notion de salle n'est pas la même que la notion de lieu déjà existante dans GLPI car cette dernière ne peut contenir des matériels.]]></fr>
-         <en><![CDATA[This plugin allows you to manage the rooms and the elements that are included in. A room is not the same as a location that already exists in GLPI because it can not contain items.]]></en>
+         <fr><![CDATA[Ce plugin vous permettra de gérer les salles et les éléments que les composent. La notion de salle n'est pas la même que la notion de lieu déjà existante dans GLPI car cette dernière ne peut contenir des matériels. Une salle peut être réservée.]]></fr>
+         <en><![CDATA[This plugin allows you to manage the rooms and the elements that are included in. A room is not the same as a location that already exists in GLPI because it can not contain items. A room can be loaned.]]></en>
       </long>
    </description>
    <homepage>https://forge.indepnet.net/projects/show/room</homepage>
